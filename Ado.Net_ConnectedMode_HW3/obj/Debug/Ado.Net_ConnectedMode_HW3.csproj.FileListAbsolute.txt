@@ -1,0 +1,10 @@
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\bin\Debug\Ado.Net_ConnectedMode_HW3.exe.config
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\bin\Debug\Ado.Net_ConnectedMode_HW3.exe
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\bin\Debug\Ado.Net_ConnectedMode_HW3.pdb
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.Form1.resources
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.Properties.Resources.resources
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.csproj.GenerateResource.cache
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.exe
+C:\Users\ТурмаханД\Desktop\Ado_Net_ConnectedMode-master\Ado.Net_ConnectedMode_HW3\Ado.Net_ConnectedMode_HW3\obj\Debug\Ado.Net_ConnectedMode_HW3.pdb
