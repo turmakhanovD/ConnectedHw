@@ -8,7 +8,7 @@ namespace Ado.Net_ConnectedMode_HW3
     public partial class Form1 : Form
     {
         SqlConnectionStringBuilder SqlConnectionBuilder = new SqlConnectionStringBuilder();
-        string User = "admin", Password = "12345";
+        string user = "admin", password = "12345";
 
         public Form1()
         {
@@ -21,8 +21,8 @@ namespace Ado.Net_ConnectedMode_HW3
         {
             if (textBox1.Text != String.Empty & textBox2.Text != String.Empty)
             {
-                User = textBox1.Text;
-                Password = textBox2.Text;
+                user = textBox1.Text;
+                password = textBox2.Text;
                 SqlConnectionBuilder.DataSource= @"(LocalDb)\MSSQLLocalDB;";
                 SqlConnectionBuilder.InitialCatalog= "bookshops";
                 SqlConnectionBuilder.UserID = User;
